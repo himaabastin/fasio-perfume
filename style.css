@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.row{
+    background-color:#2f0804 ;
+}
+.logo
+{
+    background-color:#2f0804;
+}
+
+.bg-info{
+    width: 90%;
+}
+.text{
+color:#EFAC8C;
+margin-left: 4.375rem;
+max-width: 50%;
+
+}
+.text:hover{
+text-decoration:none ;
+background-color: #a44a40;
+color:#EFAC8C ;
+
+}
+.head-font{
+    padding-top:2.1875rem;
+    display: block;
+    border-bottom: 0.06rem solid rgb(246, 196, 196);
+    background:#ffff;
+}
+.below-notes{
+    font-size:larger;
+    font-weight:600;
+    color:#CF9072;
+    margin-top: 40px;
+}
+.img-perfume{
+    width: 80%;
+    margin-top: 5%;
+    margin-left: 48%;
+    border:1px solid #CF9072;
+}
+.btn-back{
+    margin-top:1.25rem ;
+    padding: 0.9375rem;
+    background: #8A533A;
+    border:#8A533A;
+    color: #ffff;
+    font-size: 0.8rem; 
+    transition: background-color 0.25; 
+    cursor: pointer;  
+    padding-left:1.25rem ;
+    padding-right:1.25rem ;
+}
+.btn-back:hover{
+    background-color: #dda68c;
+}
+.row-bg{
+    display: inline;
+    background-color:#ffff;
+
+}
+
+.text-like{
+    margin-top:1.25rem;
+    border-bottom: 1px solid #8A533A;
+    color:#a44a40;
+}
+.img-border{
+    border: 1px solid #a44a40;
+    width:65%;
+    margin-left:11.25rem;
+}
+.footer{
+    background-color: #fcd0cb;
+ margin-top:0.75rem;
+    left: 0;
+    bottom:0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    
+}
+
+.footer-details{
+    color: 0.25rem;
+    color: rgb(90, 86, 86);
+    padding-right:1.563rem;
+}
+
+.icon-footer{
+  
+    color: #B17258;
+    size:1.3rem;
+    cursor: pointer;
+}
+
+
+
